@@ -1,4 +1,4 @@
-# protein_cleavage_prediction
+# Prediction of Signal Peptide Cleavage Site
 
 This is a project as a part of the course INF442 about Data Science at École Polytechnique. 
 The project is realized by HUANG Yuxing and LE QUANG Dung. 
